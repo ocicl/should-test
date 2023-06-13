@@ -1,0 +1,10 @@
+* should-test
+
+A minimal yet feature-rich Common Lisp test framework
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vseloved/should-test.git   |
+| commit  | 48facb9  |
+| systems | should-test |
+|---------+-------------------------------------------|
+
